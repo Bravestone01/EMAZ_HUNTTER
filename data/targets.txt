@@ -1,0 +1,5 @@
+emaz-ford-test.global.prod.fastly.net
+wwwdev1ac.fr.brandca.ford.com
+test.ford.com
+dev.ford.com
+stage.ford.com
